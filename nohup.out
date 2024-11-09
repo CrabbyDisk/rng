@@ -1,0 +1,125 @@
+libEGL warning: egl: failed to create dri2 screen
+DRM kernel driver 'nvidia-drm' in use. NVK requires nouveau.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to load glyph: 36
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to load glyph: 36
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to load glyph: 36
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to load glyph: 36
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to set glyph size and transform: 23
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[Child 95745, AudioIPC Client Callback] WARNING: 7f199f2feb80 StateCallback() state 2 cubeb error: file /build/firefox-127.0.1/dom/media/AudioStream.cpp:679
+[Child 95745, MediaDecoderStateMachine #14] WARNING: Decoder=7f1aa5ebb700 [OnMediaSinkAudioError]: file /build/firefox-127.0.1/dom/media/MediaDecoderStateMachine.cpp:4654
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+kf.dbusaddons: Failed to register name 'org.kde.plasmashell' with DBUS - does this process have permission to use the name, and do no other processes own it already?
+kf.dbusaddons: Failed to register name 'org.kde.plasmashell' with DBUS - does this process have permission to use the name, and do no other processes own it already?
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.

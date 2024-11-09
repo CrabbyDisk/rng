@@ -1,0 +1,47 @@
+KPackageStructure of KPluginMetaData(pluginId:"org.kde.plasma.eventcalendar", fileName: "/home/crabbydisk/.local/share/plasma/plasmoids/org.kde.plasma.eventcalendar/metadata.json") does not match requested format "Plasma/Applet"
+kf.plasma.quick: Applet preload policy set to 1
+file:///nix/store/37w5pmj82j6qvfixvz9rgipk98a176js-plasma-desktop-6.1.0/share/plasma/plasmoids/org.kde.desktopcontainment/contents/ui/main.qml:195:25: QML FolderViewDropArea (parent or ancestor of QQuickLayoutAttached): Binding loop detected for property "minimumWidth"
+Toolbox not loading, toolbox package is either invalid or disabled.
+file:///nix/store/syk0jl0k5vsyp1v4nvsb0pk7y4qhclhh-plasma-workspace-6.1.0/share/plasma/plasmoids/org.kde.plasma.private.systemtray/contents/ui/main.qml:162:21: QML KSortFilterProxyModel: Binding loop detected for property "sourceModel"
+file:///nix/store/syk0jl0k5vsyp1v4nvsb0pk7y4qhclhh-plasma-workspace-6.1.0/share/plasma/plasmoids/org.kde.plasma.private.systemtray/contents/ui/main.qml:162:21: QML KSortFilterProxyModel: Binding loop detected for property "sourceModel"
+qml: SystemTray ItemLoader: Invalid state, cannot determine source!
+kameleon supported false
+kameleon enabled true
+qt.dbus.integration: Could not connect "org.cups.cupsd.Notifier" to PrinterFinishingsChanged(QString, QString, QString, uint, QString, bool) : 
+error getting max screen brightness via dbus: QDBusError("org.freedesktop.DBus.Error.UnknownObject", "No such object path '/org/kde/Solid/PowerManagement/Actions/BrightnessControl'")
+error getting max keyboard brightness via dbus QDBusError("org.freedesktop.DBus.Error.UnknownObject", "No such object path '/org/kde/Solid/PowerManagement/Actions/KeyboardBrightnessControl'")
+qrc:/qt/qml/org/kde/plasma/workspace/calendar/MonthViewHeader.qml:54:26: QML PlasmoidHeading: Binding loop detected for property "leftInset"
+QFont::setPointSizeF: Point size <= 0 (0.000000), must be greater than 0
+QFont::setPointSizeF: Point size <= 0 (0.000000), must be greater than 0
+QFont::setPointSizeF: Point size <= 0 (0.000000), must be greater than 0
+org.kde.plasma.notificationmanager: Trying to replace notification with id 1738 which doesn't exist, creating a new one. This is an application bug!
+org.kde.plasma.notificationmanager: Trying to replace notification with id 1739 which doesn't exist, creating a new one. This is an application bug!
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+org.kde.plasma.notificationmanager: Trying to replace notification with id 1740 which doesn't exist, creating a new one. This is an application bug!
+org.kde.plasma.notificationmanager: Trying to replace notification with id 1741 which doesn't exist, creating a new one. This is an application bug!
+org.kde.plasma.notificationmanager: Trying to replace notification with id 1742 which doesn't exist, creating a new one. This is an application bug!
+org.kde.plasma.notificationmanager: Trying to replace notification with id 1743 which doesn't exist, creating a new one. This is an application bug!
+org.kde.plasma.notificationmanager: Trying to replace notification with id 1744 which doesn't exist, creating a new one. This is an application bug!
+file:///nix/store/syk0jl0k5vsyp1v4nvsb0pk7y4qhclhh-plasma-workspace-6.1.0/share/plasma/plasmoids/org.kde.plasma.private.systemtray/contents/ui/items/PlasmoidItem.qml:60: TypeError: Property 'pressed' of object QQuickMouseArea_QML_74(0x2d8ccb30) is not a function
+kf.windowsystem.wayland: Failed to recreate shadow for PlasmaQuick::AppletPopup(0x2c27fc00, name="popupWindow")
+kf.windowsystem.wayland: Failed to recreate shadow for PlasmaQuick::AppletPopup(0x2c27fc00, name="popupWindow")
+KPackageStructure of KPluginMetaData(pluginId:"org.kde.plasma.eventcalendar", fileName: "/home/crabbydisk/.local/share/plasma/plasmoids/org.kde.plasma.eventcalendar/metadata.json") does not match requested format "Plasma/Applet"
+org.kde.plasma.notificationmanager: Trying to replace notification with id 1745 which doesn't exist, creating a new one. This is an application bug!
+org.kde.plasma.notificationmanager: Trying to replace notification with id 1746 which doesn't exist, creating a new one. This is an application bug!
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to load glyph: 36
+[ERROR wr_glyph_rasterizer::platform::unix::font] Unable to load glyph: 36
+libEGL warning: egl: failed to create dri2 screen
+ExceptionHandler::GenerateDump cloned child 51730
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
